@@ -31,4 +31,5 @@ merged_with_avg = pd.concat([merged, average_df[['Country','Year','GDP','Inflati
 merged_with_avg = merged_with_avg.sort_values(by=['Country','Year'])
 
 merged_with_avg.to_csv('merged_data_with_avg.csv', index=False)
-print("ready table is completed and named: 'merged_data_with_avg.csv'")
+print("final table is complete and named: 'merged_data_with_avg.csv'")
+
