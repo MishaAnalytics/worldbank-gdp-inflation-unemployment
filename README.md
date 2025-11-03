@@ -11,8 +11,6 @@ This project:
 - Visualizes trends for **Ukraine**, **Netherlands**, and the **global average**  
 - Demonstrates the correlation between GDP and Unemployment  
 
-All charts are automatically saved to the `/images` folder once the scripts are executed.
-
 ---
 
 ## 🧠 What I Learned
@@ -38,3 +36,5 @@ I’m continuously learning to transform data into insight — a skill I aim to 
 pip install -r requirements.txt
 python prepare_data.py
 python visualize_data.py
+```
+Note: All charts are generated automatically and saved in the `images/` folder when you run `visualize_data.py`.
