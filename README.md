@@ -27,7 +27,7 @@ This project:
 
 This project reflects my journey into **data science and economic analytics**.  
 It helped me connect global economic concepts with real data, improving both my technical and analytical thinking.  
-I’m continuously learning to transform data into insight — a skill I aim to deepen through my university studies.
+I’m continuously learning to transform data into insight - a skill I aim to deepen through my university studies.
 
 ---
 
