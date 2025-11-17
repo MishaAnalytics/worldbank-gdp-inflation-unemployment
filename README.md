@@ -32,9 +32,17 @@ I’m continuously learning to transform data into insight — a skill I aim to 
 
 ## ⚙️ How to Run
 
+You can reproduce the analysis locally in just a few steps:
+
 ```bash
+# 1. Install dependencies
 pip install -r requirements.txt
+
+# 2. Prepare the merged dataset
 python prepare_data.py
+
+# 3. Generate and save visualizations
 python visualize_data.py
+
 ```
 Note: All charts are generated automatically and saved in the `images/` folder when you run `visualize_data.py`.
