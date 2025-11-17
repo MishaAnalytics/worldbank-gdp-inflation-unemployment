@@ -10,7 +10,7 @@ This project:
 - Calculates **average global values** for comparison  
 - Visualizes trends for **Ukraine**, **Netherlands**, and the **global average**  
 - Demonstrates the correlation between GDP and Unemployment
-- In  the `outputs/` forlder you can demonstrations of running this code.
+- In  the `outputs/` forlder you can find demonstrations of running this code.
 
 ---
 
