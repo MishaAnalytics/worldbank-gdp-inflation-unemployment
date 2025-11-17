@@ -9,7 +9,8 @@ This project:
 - Merges datasets on **GDP**, **Inflation**, and **Unemployment**  
 - Calculates **average global values** for comparison  
 - Visualizes trends for **Ukraine**, **Netherlands**, and the **global average**  
-- Demonstrates the correlation between GDP and Unemployment  
+- Demonstrates the correlation between GDP and Unemployment
+- In  the `outputs/` forlder you can demonstrations of running this code.
 
 ---
 
